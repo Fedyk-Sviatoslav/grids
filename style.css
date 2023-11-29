@@ -11,7 +11,7 @@
 .item:nth-child(1) {
  display: flex;
  align-self: start;
- flex-basis: calc(50% - 0px / 1);
+  flex-basis: calc(50% - 0px / 1); 
  background-color: red;
  align-self: stretch;
  border-top-left-radius: 50px;
